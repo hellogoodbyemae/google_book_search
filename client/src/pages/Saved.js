@@ -1,11 +1,10 @@
+  
 import React, { Component } from "react";
-import Saved from "../components/";
+import SavedGlobal from "../components/Saved";
 
 class Saved extends Component {
     render() {
-        return (
-            <Saved/>
-        )
+        return (<Saved/>)
     }
 }
 

@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import Search from "../components/";
+import Search from "../components/Search";
 
-class Search extends Component {
+class SearchPage extends Component {
     render() {
         return (
             <Search/>
@@ -9,4 +9,4 @@ class Search extends Component {
     }
 }
 
-export default Search;
+export default SearchPage;
